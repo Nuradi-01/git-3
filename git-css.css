@@ -1,0 +1,20 @@
+*{
+	box-sizing: border-box;
+}
+.container{
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+	width: 1140px;
+	height: 300px;
+	padding: 20px;
+}
+
+.text-blok{
+	width: 350px;
+	height: 200px;
+	text-align: center;
+	font-size: 20px;
+	font-weight:600;
+}
+
